@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+.container{
+    /* background-color: yellow; */
+    height: 800px;
+    width: 970px;
+    text-align: center;
+}
+.textbox{
+display: block;
+width: 300px;
+text-align: center;
+margin-left: 340px;
+}
+
+.body{
+    width: 970px;
+    height: 400px;
+    /* background-color: green; */
+    
+}
+
+p{
+    margin-top: 10px;
+}
+
+button{
+    background-color: #75a5af;
+    color: white;
+    height: 20px;
+    width: 50px;
+    border-radius: 2px solid black;
+    box-shadow: 2px 2px;
+}
